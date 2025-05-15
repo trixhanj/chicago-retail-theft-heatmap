@@ -33,10 +33,10 @@ This project visualizes retail theft patterns across the city of Chicago using r
 ## 🖼️ Project Visuals
 
 ### 📈 Retail Theft by Month (2025)
-![Monthly Trend](https://github.com/trixhanj/chicago-retail-theft-heatmap/blob/main/monthly_trend.png?raw=true)
+![Monthly Trend](https://raw.githubusercontent.com/trixhanj/chicago-retail-theft-heatmap/a5df2630fc6c016d9e743c42cfc1ac129651b8b7/Monthly%20Trend%20Chart.png)
 
 ### 🏬 Top 10 Locations for Retail Theft
-![Top Locations](https://github.com/trixhanj/chicago-retail-theft-heatmap/blob/main/top_locations.png?raw=true)
+![Top Locations](https://raw.githubusercontent.com/trixhanj/chicago-retail-theft-heatmap/a5df2630fc6c016d9e743c42cfc1ac129651b8b7/Top%20Locations.png)
 
 ## 🏙️ Data Source
 
