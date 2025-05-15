@@ -2,6 +2,10 @@
 
 This project visualizes retail theft patterns across the city of Chicago using real 2025 crime data. I used Python, Folium, and other data tools to generate an interactive heatmap of retail theft incidents, as well as monthly trend graphs and top location breakdowns.
 
+## 🔗 Live Interactive Map
+
+👉 [View the Heatmap](https://trixhanj.github.io/chicago-retail-theft-heatmap/)
+
 ## 📊 Project Goals
 
 - Use public safety data to uncover retail theft patterns across Chicago
