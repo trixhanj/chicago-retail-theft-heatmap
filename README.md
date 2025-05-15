@@ -20,7 +20,6 @@ This project visualizes retail theft patterns across the city of Chicago using r
 
 ## 📁 Project Files
 
-- `retail_theft.ipynb` — Jupyter Notebook with full analysis and visualizations
 - `retail_theft_2025_heatmap.html` — Interactive map (open in your browser)
 - `Crimes_-_2025_20250514.csv` — Raw data from the City of Chicago (filtered in code)
 
