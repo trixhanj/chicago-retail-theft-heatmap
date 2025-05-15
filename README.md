@@ -30,6 +30,14 @@ This project visualizes retail theft patterns across the city of Chicago using r
 - Most common locations: **Small Retail Stores** and **Department Stores**
 - **5,074** retail theft incidents recorded in early 2025
 
+## 🖼️ Project Visuals
+
+### 📈 Retail Theft by Month (2025)
+![Monthly Trend](https://github.com/trixhanj/chicago-retail-theft-heatmap/blob/main/monthly_trend.png?raw=true)
+
+### 🏬 Top 10 Locations for Retail Theft
+![Top Locations](https://github.com/trixhanj/chicago-retail-theft-heatmap/blob/main/top_locations.png?raw=true)
+
 ## 🏙️ Data Source
 
 [City of Chicago Data Portal – Crimes 2001 to Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
